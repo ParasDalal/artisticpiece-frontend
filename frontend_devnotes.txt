@@ -1,0 +1,9 @@
+If you use typescript, you will need to import the corrosponding types
+    npm install --save react-router-dom
+    npm i --save-dev @types/react-router-dom
+
+To add Typescript to existing project
+    npm install --save-dev typescript @types/node @types/react @types/react-dom @types/jest @types/react-router-dom
+
+To add Babel to the project
+    npm install --save-dev @babel/preset-react
