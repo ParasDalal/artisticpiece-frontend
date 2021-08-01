@@ -10,8 +10,6 @@ import {
   Button,
 } from "react-bootstrap";
 import { Home } from "../pages/Home";
-import { Training } from "../pages/Training";
-import { Login } from "../pages/Login";
 
 export const Header = () => (
   <div>
